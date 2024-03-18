@@ -50,7 +50,7 @@ public class Anfibio extends Animal {
 		return "saltar";
 	}
 	
-	public boolean esVenenoso() {
+	public boolean isVenenoso() {
 		
 		return venenoso;
 	}
